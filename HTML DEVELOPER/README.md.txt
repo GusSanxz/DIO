@@ -1,0 +1,1 @@
+Este projeto foi feito para apresentar um resumo das atividades vistas sobre HTML, em HTML, com a ultilizacao de todos os topicos mencionados no "blog", com excecao das conexoes de imagens da internet.
